@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Global Developer CDN Link - Bypasses GitHub's aggressive caching and proxy -->
-<img src="https://cdn.jsdelivr.net/gh/vijaykumarbvk/vijaykumarbvk/header.svg" width="100%" alt="Animated Header"/>
+<!-- Direct local link to the file you just created -->
+<img src="header.svg?sanitize=true&v=success" width="100%" alt="Animated Header"/>
 
 <br>
 
