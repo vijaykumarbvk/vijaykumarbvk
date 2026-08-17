@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Reliable Cloud-Hosted Dynamic Name Render -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00d2ff&text=Hi%20there,%20I%27m%20Vijaykumar%20👋&fontSize=45&height=120&animation=twinkling" width="100%" alt="Header"/>
+<!-- Directly fetching the animated SVG from your repo to bypass pathing issues -->
+<img src="https://raw.githubusercontent.com/vijaykumarbvk/vijaykumarbvk/main/header.svg?sanitize=true&v=1" width="100%" alt="Header"/>
 
 <br>
 
