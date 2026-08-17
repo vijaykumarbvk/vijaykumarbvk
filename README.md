@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Directly fetching the animated SVG from your repo to bypass pathing issues -->
-<img src="https://raw.githubusercontent.com/vijaykumarbvk/vijaykumarbvk/main/header.svg?sanitize=true&v=1" width="100%" alt="Header"/>
+<!-- Bulletproof Cloud API Name Render with Cyber-Aurora Colors -->
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=800&size=45&pause=2000&color=00F2FE;4FACFE;9B51E0;F107A3&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Vijaykumar+👋" alt="Header"/>
 
 <br>
 
