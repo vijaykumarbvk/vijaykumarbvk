@@ -1,98 +1,72 @@
 <div align="center">
 
-# Vijaykumar Barampuram
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=VIJAYKUMAR+BARAMPURAM;AWS+CLOUD+ENGINEER;DEVOPS+%7C+AUTOMATION+%7C+SECURE+CI%2FCD;ARCHITECTING+THE+FUTURE+OF+CLOUD" alt="Typing SVG" />
 
-### Cloud Engineer · AWS & DevOps
+<p align="center">
+  <kbd>Designing and automating AWS cloud infrastructure with Terraform</kbd><br>
+  <kbd>Building secure, OIDC-based CI/CD pipelines</kbd><br>
+  <kbd>Containerizing workloads with Docker & Kubernetes</kbd>
+</p>
 
-<i>Designing and automating AWS cloud infrastructure with Terraform · building secure,<br/>
-OIDC-based CI/CD pipelines · containerizing workloads with Docker & Kubernetes.</i>
+<!-- Sleek Neon Badges -->
+<a href="#"><img src="https://img.shields.io/badge/SYS.LOC-Hyderabad,_India-000000?style=for-the-badge&logo=googlemaps&logoColor=00FFCC&edge_color=00FFCC" alt="Location"/></a>
+<a href="#"><img src="https://img.shields.io/badge/EXP.LVL-4.6+_Years-000000?style=for-the-badge&logo=opslevel&logoColor=BF00FF" alt="Experience"/></a>
+<a href="#"><img src="https://komarev.com/ghpvc/?username=vijaykumarbvk&color=000000&style=for-the-badge&label=DATA.VIEWS&logo=eye&logoColor=00FFCC" alt="Profile Views"/></a>
 
-<br/>
+<br><br>
 
-[![Location](https://img.shields.io/badge/📍_Hyderabad,_India-1F3864?style=for-the-badge)](#)
-[![Experience](https://img.shields.io/badge/4.6%2B_yrs_experience-1F3864?style=for-the-badge)](#)
-![Profile Views](https://komarev.com/ghpvc/?username=vijaykumarbvk&color=1F3864&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Divider" width="100%">
 
 </div>
 
-&nbsp;
+### 🛸 `[INIT] ABOUT_ME.sh`
 
-## 👋 About Me
+> **Cloud Engineer** with **4.6+ years** of telemetry in IT, specializing in AWS infrastructure, DevOps automation, and high-availability platform engineering. Bridging the gap between code and the cloud.
 
-Cloud Engineer with **4.6+ years** in IT, focused on AWS infrastructure, DevOps automation, and platform engineering.
-
-- 🚀 Building CI/CD pipelines & automating infra at **People Tech Group**
-- 🏗️ Deep in **Terraform** — modules, remote state, multi-cloud IaC
-- 🐳 Containerizing & orchestrating with **Docker + Kubernetes**
-- 📊 Observability with **CloudWatch, Prometheus, Grafana**
-- 🔐 DevSecOps: least-privilege IAM, Secrets Manager, GuardDuty, WAF
-- 🌱 Background in Java / Spring Boot supports close work with app teams
-
-&nbsp;
-
-## 🎓 Education & Current Role
-
-| | |
-|---|---|
-| 🎓 **B. Tech** | PRIST University, Chennai — 2021 |
-| 💼 **Cloud Engineer** | People Tech Group — Jul 2025 to Present |
-
-&nbsp;
-
-## 🧰 Tech Stack
+- 🚀 **Mission:** Building CI/CD pipelines & automating infra at **People Tech Group**
+- 🏗️ **Core Directive:** Deep in **Terraform** — modules, remote state, multi-cloud IaC
+- 🐳 **Matrix:** Containerizing & orchestrating with **Docker + Kubernetes**
+- 📊 **Telemetry:** Observability via **CloudWatch, Prometheus, Grafana**
+- 🔐 **Security:** DevSecOps (least-privilege IAM, Secrets Manager, GuardDuty, WAF)
+- 🌱 **Origin:** Background in Java / Spring Boot enables seamless synergy with app teams
 
 <div align="center">
-
-**Cloud Platforms**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-**Infrastructure as Code**
-
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-**Containers & Orchestration**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-**CI/CD & Automation**
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-
-**Monitoring & Observability**
-
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-**Other Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Divider" width="100%">
 </div>
 
-&nbsp;
+### ⚙️ `[SYS.CONFIG] TECH_STACK`
 
-## 🏗️ Featured Projects
+<details open>
+<summary><b>[ CLICK TO EXPAND SYSTEM ARCHITECTURE ]</b></summary>
+<br>
+
+| Domain | Technologies |
+| :--- | :--- |
+| **☁️ Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900) ![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4) ![GCP](https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=google-cloud&logoColor=4285F4) |
+| **🏗️ Infrastructure as Code** | ![Terraform](https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=844FBA) ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=EE0000) ![CloudFormation](https://img.shields.io/badge/CloudFormation-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900) |
+| **🐳 Containers & Orch.** | ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED) ![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=326CE5) |
+| **⚡ CI/CD & Automation** | ![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=D24939) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=2088FF) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-000000?style=for-the-badge&logo=gitlab&logoColor=FC6D26) |
+| **📡 Telemetry & Logs**| ![CloudWatch](https://img.shields.io/badge/CloudWatch-000000?style=for-the-badge&logo=amazoncloudwatch&logoColor=FF4F8B) ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=E6522C) ![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=F46800) |
+| **🛠️ Core Utilities** | ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624) ![Bash](https://img.shields.io/badge/Bash_Scripting-000000?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25) |
+
+</details>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Divider" width="100%">
+</div>
+
+### 📦 `[EXEC] FEATURED_DEPLOYMENTS`
 
 <table>
 <tr>
-<th width="34%">Project</th>
-<th>Highlights</th>
+<th width="35%">Project Matrix</th>
+<th>Execution Details</th>
 </tr>
 <tr>
 <td valign="top">
 <b>🔐 GitHub Actions OIDC Pipeline</b><br/>
-<sub>Terraform · GitHub Actions · AWS IAM</sub>
+<sub><i>Terraform · GitHub Actions · AWS IAM</i></sub>
 </td>
 <td valign="top">
 Migrated deployments from static AWS credentials to OIDC-based auth. Configured IAM trust policies + GitHub OIDC identity provider for secure, keyless deploys with plan/apply approval gates.
@@ -101,7 +75,7 @@ Migrated deployments from static AWS credentials to OIDC-based auth. Configured 
 <tr>
 <td valign="top">
 <b>🌐 Multi-Cloud IaC Framework</b><br/>
-<sub>Terraform · AWS · Azure · GCP</sub>
+<sub><i>Terraform · AWS · Azure · GCP</i></sub>
 </td>
 <td valign="top">
 Standardized networking, security & deployment across three clouds. Reusable Terraform modules cut provisioning time by <b>70%</b>, with S3+DynamoDB state locking and tfsec/Checkov policy checks.
@@ -110,7 +84,7 @@ Standardized networking, security & deployment across three clouds. Reusable Ter
 <tr>
 <td valign="top">
 <b>📊 Centralized Logging Pipeline</b><br/>
-<sub>CloudWatch · Lambda · S3</sub>
+<sub><i>CloudWatch · Lambda · S3</i></sub>
 </td>
 <td valign="top">
 Centralized logging via CloudWatch Log Groups with automated S3 archival, cutting log storage costs by <b>45%</b>. Serverless archival + self-serve Logs Insights dashboards.
@@ -118,22 +92,28 @@ Centralized logging via CloudWatch Log Groups with automated S3 archival, cuttin
 </tr>
 </table>
 
-&nbsp;
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Divider" width="100%">
+</div>
 
-## 📈 GitHub Stats
+### 📈 `[SYS.METRICS] GITHUB_TELEMETRY`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vijaykumarbvk&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=1F3864&text_color=333333"/>
+<!-- Futuristic TokyoNight Theme Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=vijaykumarbvk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=BF00FF&text_color=8B949E" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaykumarbvk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=8B949E" alt="Top Languages" width="48%" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaykumarbvk&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFCC&fire=BF00FF&currStreakNum=8B949E" alt="GitHub Streak" width="97%" />
 
 </div>
 
-<sub>If the stats card above doesn't load, it's a temporary hiccup with the free stats service, not your profile — refreshing the page usually fixes it.</sub>
-
-&nbsp;
+<br>
 
 <div align="center">
 
-<i>⭐ From Terraform modules to Kubernetes clusters — automating the cloud, one deploy at a time.</i>
+`[ EOF ] // From Terraform modules to Kubernetes clusters — automating the cloud, one deploy at a time. ⚡`
 
 </div>
