@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Custom Animated Flowing Gradient Header -->
-<img src="header.svg" width="100%" alt="Header"/>
+<!-- Reliable Cloud-Hosted Dynamic Name Render -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00d2ff&text=Hi%20there,%20I%27m%20Vijaykumar%20👋&fontSize=45&height=120&animation=twinkling" width="100%" alt="Header"/>
 
 <br>
 
@@ -108,21 +108,8 @@
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Divider" width="80%">
-</div>
-
-### 📈 GitHub Telemetry
-
-<div align="center">
-
-<!-- Reliable Markdown format with adaptive transparent backgrounds -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijaykumarbvk&show_icons=true&theme=transparent&hide_border=true&title_color=3a7bd5&icon_color=00d2ff&text_color=586069)](https://github.com/vijaykumarbvk)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaykumarbvk&layout=compact&theme=transparent&hide_border=true&title_color=3a7bd5&text_color=586069)](https://github.com/vijaykumarbvk)
 
 <br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vijaykumarbvk&theme=transparent&hide_border=true&title_color=3a7bd5&text_color=586069&sideNums=00d2ff&sideLabels=586069&ring=3a7bd5&fire=00d2ff&currStreakLabel=3a7bd5&currStreakNum=586069)](https://github.com/vijaykumarbvk)
-
-<br><br>
 
 `[ EOF ] // From Terraform modules to CI/CD pipelines — automating the cloud, one deploy at a time. ⚡`
 
