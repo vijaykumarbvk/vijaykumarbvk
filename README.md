@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=VIJAYKUMAR+BARAMPURAM;AWS+CLOUD+ENGINEER;DEVOPS+%7C+AUTOMATION+%7C+SECURE+CI%2FCD;ARCHITECTING+THE+FUTURE+OF+CLOUD" alt="Typing SVG" />
+<!-- Wavy Dynamic Gradient Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00d2ff,3a7bd5&height=250&section=header&text=VIJAYKUMAR%20BARAMPURAM&fontSize=50&fontAlignY=38&desc=AWS%20Cloud%20Engineer%20|%20DevOps&descAlignY=60&descSize=22&animation=twinkling" width="100%" alt="Header"/>
 
 <p align="center">
   <kbd>Designing and automating AWS cloud infrastructure with Terraform</kbd><br>
@@ -9,10 +9,10 @@
   <kbd>Containerizing workloads with Docker & Kubernetes</kbd>
 </p>
 
-<!-- Sleek Neon Badges -->
-<a href="#"><img src="https://img.shields.io/badge/SYS.LOC-Hyderabad,_India-000000?style=for-the-badge&logo=googlemaps&logoColor=00FFCC&edge_color=00FFCC" alt="Location"/></a>
-<a href="#"><img src="https://img.shields.io/badge/EXP.LVL-4.6+_Years-000000?style=for-the-badge&logo=opslevel&logoColor=BF00FF" alt="Experience"/></a>
-<a href="#"><img src="https://komarev.com/ghpvc/?username=vijaykumarbvk&color=000000&style=for-the-badge&label=DATA.VIEWS&logo=eye&logoColor=00FFCC" alt="Profile Views"/></a>
+<!-- Sleek Professional Badges -->
+<a href="#"><img src="https://img.shields.io/badge/SYS.LOC-Hyderabad,_India-3a7bd5?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/></a>
+<a href="#"><img src="https://img.shields.io/badge/EXP.LVL-4.6+_Years-3a7bd5?style=for-the-badge&logo=opslevel&logoColor=white" alt="Experience"/></a>
+<a href="#"><img src="https://komarev.com/ghpvc/?username=vijaykumarbvk&color=3a7bd5&style=for-the-badge&label=DATA.VIEWS&logo=eye&logoColor=white" alt="Profile Views"/></a>
 
 <br><br>
 
@@ -43,12 +43,12 @@
 
 | Domain | Technologies |
 | :--- | :--- |
-| **☁️ Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900) ![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4) ![GCP](https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=google-cloud&logoColor=4285F4) |
-| **🏗️ Infrastructure as Code** | ![Terraform](https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=844FBA) ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=EE0000) ![CloudFormation](https://img.shields.io/badge/CloudFormation-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900) |
-| **🐳 Containers & Orch.** | ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED) ![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=326CE5) |
-| **⚡ CI/CD & Automation** | ![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=D24939) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=2088FF) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-000000?style=for-the-badge&logo=gitlab&logoColor=FC6D26) |
-| **📡 Telemetry & Logs**| ![CloudWatch](https://img.shields.io/badge/CloudWatch-000000?style=for-the-badge&logo=amazoncloudwatch&logoColor=FF4F8B) ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=E6522C) ![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=F46800) |
-| **🛠️ Core Utilities** | ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624) ![Bash](https://img.shields.io/badge/Bash_Scripting-000000?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25) |
+| **☁️ Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-F9FAFB?style=for-the-badge&logo=amazon-aws&logoColor=FF9900) ![Azure](https://img.shields.io/badge/Azure-F9FAFB?style=for-the-badge&logo=microsoft-azure&logoColor=0078D4) ![GCP](https://img.shields.io/badge/GCP-F9FAFB?style=for-the-badge&logo=google-cloud&logoColor=4285F4) |
+| **🏗️ Infrastructure as Code** | ![Terraform](https://img.shields.io/badge/Terraform-F9FAFB?style=for-the-badge&logo=terraform&logoColor=844FBA) ![Ansible](https://img.shields.io/badge/Ansible-F9FAFB?style=for-the-badge&logo=ansible&logoColor=EE0000) ![CloudFormation](https://img.shields.io/badge/CloudFormation-F9FAFB?style=for-the-badge&logo=amazonaws&logoColor=FF9900) |
+| **🐳 Containers & Orch.** | ![Docker](https://img.shields.io/badge/Docker-F9FAFB?style=for-the-badge&logo=docker&logoColor=2496ED) ![Kubernetes](https://img.shields.io/badge/Kubernetes-F9FAFB?style=for-the-badge&logo=kubernetes&logoColor=326CE5) |
+| **⚡ CI/CD & Automation** | ![Jenkins](https://img.shields.io/badge/Jenkins-F9FAFB?style=for-the-badge&logo=jenkins&logoColor=D24939) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-F9FAFB?style=for-the-badge&logo=github-actions&logoColor=2088FF) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-F9FAFB?style=for-the-badge&logo=gitlab&logoColor=FC6D26) |
+| **📡 Telemetry & Logs**| ![CloudWatch](https://img.shields.io/badge/CloudWatch-F9FAFB?style=for-the-badge&logo=amazoncloudwatch&logoColor=FF4F8B) ![Prometheus](https://img.shields.io/badge/Prometheus-F9FAFB?style=for-the-badge&logo=prometheus&logoColor=E6522C) ![Grafana](https://img.shields.io/badge/Grafana-F9FAFB?style=for-the-badge&logo=grafana&logoColor=F46800) |
+| **🛠️ Core Utilities** | ![Git](https://img.shields.io/badge/Git-F9FAFB?style=for-the-badge&logo=git&logoColor=F05032) ![Linux](https://img.shields.io/badge/Linux-F9FAFB?style=for-the-badge&logo=linux&logoColor=FCC624) ![Bash](https://img.shields.io/badge/Bash_Scripting-F9FAFB?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25) |
 
 </details>
 
@@ -100,13 +100,13 @@ Centralized logging via CloudWatch Log Groups with automated S3 archival, cuttin
 
 <div align="center">
 
-<!-- Futuristic TokyoNight Theme Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=vijaykumarbvk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=BF00FF&text_color=8B949E" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaykumarbvk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&text_color=8B949E" alt="Top Languages" width="48%" />
+<!-- Transparent adaptive standard markdown links to ensure they load properly -->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijaykumarbvk&show_icons=true&theme=transparent&hide_border=true&title_color=3a7bd5&icon_color=00d2ff&text_color=586069)](https://github.com/vijaykumarbvk)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaykumarbvk&layout=compact&theme=transparent&hide_border=true&title_color=3a7bd5&text_color=586069)](https://github.com/vijaykumarbvk)
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaykumarbvk&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFCC&fire=BF00FF&currStreakNum=8B949E" alt="GitHub Streak" width="97%" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vijaykumarbvk&theme=transparent&hide_border=true&title_color=3a7bd5&text_color=586069&sideNums=00d2ff&sideLabels=586069&ring=3a7bd5&fire=00d2ff&currStreakLabel=3a7bd5&currStreakNum=586069)](https://github.com/vijaykumarbvk)
 
 </div>
 
