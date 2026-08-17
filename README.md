@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Bulletproof Cloud API Name Render with Cyber-Aurora Colors -->
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=800&size=45&pause=2000&color=00F2FE;4FACFE;9B51E0;F107A3&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Vijaykumar+👋" alt="Header"/>
+<!-- Global Developer CDN Link - Bypasses GitHub's aggressive caching and proxy -->
+<img src="https://cdn.jsdelivr.net/gh/vijaykumarbvk/vijaykumarbvk/header.svg" width="100%" alt="Animated Header"/>
 
 <br>
 
