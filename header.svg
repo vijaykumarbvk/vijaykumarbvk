@@ -1,17 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 140" width="100%" height="140">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100" width="100%" height="100">
   <defs>
-    <!-- The Ultra-Premium Cyber-Aurora Flowing Gradient -->
+    <!-- High-Energy Dynamic Flowing Gradient -->
     <linearGradient id="flow" x1="0%" y1="0%" x2="200%" y2="0%">
-      <stop offset="0%" stop-color="#00F2FE" />
-      <stop offset="25%" stop-color="#4FACFE" />
-      <stop offset="50%" stop-color="#9B51E0" />
-      <stop offset="75%" stop-color="#4FACFE" />
-      <stop offset="100%" stop-color="#00F2FE" />
-      <animate attributeName="x1" values="0%;-100%" dur="6s" repeatCount="indefinite" />
-      <animate attributeName="x2" values="200%;100%" dur="6s" repeatCount="indefinite" />
+      <stop offset="0%" stop-color="#FF007F" />
+      <stop offset="25%" stop-color="#7F00FF" />
+      <stop offset="50%" stop-color="#00C9FF" />
+      <stop offset="75%" stop-color="#FFD700" />
+      <stop offset="100%" stop-color="#FF007F" />
+      <animate attributeName="x1" values="0%;-100%" dur="4s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="200%;100%" dur="4s" repeatCount="indefinite" />
     </linearGradient>
+
+    <!-- The Typing Transition Mask -->
+    <clipPath id="typing-mask">
+      <rect x="50" y="0" width="0" height="100">
+        <!-- Animates the unmasking from left to right over 2.5 seconds -->
+        <animate attributeName="width" from="0" to="750" dur="2.5s" fill="freeze" calcMode="linear" />
+      </rect>
+    </clipPath>
   </defs>
 
-  <!-- Inline styling makes it immune to GitHub's proxy stripping -->
-  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="900" letter-spacing="-1px" fill="url(#flow)">Hi there, I'm Vijaykumar 👋</text>
+  <!-- We apply the clip-path mask to your upgraded text here -->
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="system-ui, -apple-system, 'Segoe UI Black', 'Arial Black', sans-serif" font-size="44" font-weight="900" letter-spacing="-1.5px" fill="url(#flow)" clip-path="url(#typing-mask)">Hi there, I'm Vijaykumar 👋</text>
 </svg>
