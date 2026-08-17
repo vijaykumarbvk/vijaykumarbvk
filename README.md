@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Dynamic Wavy Gradient Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00d2ff,3a7bd5&height=250&section=header&text=Hi%20there,%20I'm%20Vijaykumar%20👋&fontSize=45&fontAlignY=38&desc=Cloud%20Engineer%20|%20AWS%20%26%20DevOps&descAlignY=60&descSize=22&animation=twinkling" width="100%" alt="Header"/>
+<!-- Custom Animated Flowing Gradient Header -->
+<img src="header.svg" width="100%" alt="Header"/>
 
 <br>
 
